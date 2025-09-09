@@ -1,1 +1,27 @@
+1. System Objectives
+Our project aims to solve the hassle and confusion that comes with managing dormitories and boarding houses manually. Right now, many places still use paper records and manual tracking, which often leads to mistakes, lost information, late payments, and lots of unnecessary work for the staff. Our system will simplify these processes by providing an easy-to-use digital platform where everything from room assignments to rent payments and tenant information is organized, accurate, and accessible anytime. This means less stress for the managers and a smoother, more transparent experience for the tenants.
 
+2. Proposed Scope
+
+The system will include important parts such as:
+1. Assigning rooms efficiently with real-time availability
+2. Managing tenant profiles with personal and emergency contact details
+3. Tracking rent payments, sending alerts for due or late payments
+4. Allowing tenants to submit maintenance requests and notify the staff
+5. Communicating announcements or important news through SMS or email
+6. Reporting features to help the management see occupancy, finances, and maintenance status
+7. Role-based access so admins and tenants see only what they need to
+
+3. Stakeholders
+Dormitory Manager/Administrator: The person in charge of running the dorm, handling tenant info, payments, room allocation, and maintenance coordination.
+Tenants/Boarders: The residents who need a reliable way to check their room details, payment status, and communicate with the dorm management.
+
+4. Tools/Technologies
+
+We plan to use web-based tools and technologies such as:
+1. Web development frameworks like ASP.NET or PHP for building the system interface
+2. Secure databases like MySQL or SQL Server to store tenant records and transactions
+3. Cloud or local servers to host the system for easy access
+4. Communication services to send SMS or email alerts automatically
+5. Mobile-friendly design so tenants and staff can easily access the system on any device
+6. Security features like user authentication to protect sensitive data
